@@ -4,7 +4,6 @@ run-name: Rest API Python Tests
 on:
   schedule:
     - cron: "*/1 * * * *"
-  push:
 
 jobs:
   Run-Tests:
